@@ -4,9 +4,12 @@ AI automation developer and consultant. I build AI agents, voice agents, and aut
 
 **Stack:** Claude Code · n8n · VAPI · ElevenLabs · Next.js · Supabase · Vercel · Playwright
 
+📧 aclj103@gmail.com | [LinkedIn](https://www.linkedin.com/in/afton-johnson-a124a516b/)
+
 ## Projects
 
-- [The Care Audit](https://github.com/Ifadoja999/the-care-audit) — AI-powered senior care facility directory (Next.js + Supabase + Claude API + trigger.dev)
+- [The Care Audit](https://github.com/Ifadoja999/the-care-audit) — AI-powered senior care facility directory (Next.js + Supabase + Claude API + Trigger.dev)
+- [AI Agent Demos](https://github.com/Ifadoja999/ai-agent-demos) — VAPI phone receptionist, ElevenLabs travel agent, n8n content pipelines
 - [SatUsPhere](https://github.com/Ifadoja999/satusphere-website) — Bitcoin education platform with 9 custom interactive tools
 - [Gerry Timezone](https://github.com/Ifadoja999/gerry-timezone) — Client-built DST-aware timezone converter for US/Canada
 
